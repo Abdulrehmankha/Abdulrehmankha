@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulrehmankhan
 - 👀 I’m interested in the development of Mobile Applications, Websites, and Data Science Work.
-- 🌱 I’m currently studying master's from NED University In the Field of Data Engineering Information Technology.
+- 🌱 I’ve completed my master's from NED University In the Field of Data Engineering Information Technology. (2024)
 - 💞️ I’m looking to collaborate on different software industries.
 - 📫 You can easily reach me through my Website: https://connectrehmankhan.com/ or my LinkedIn profile or contact me on Fiverr / Upwork.
 
